@@ -74,7 +74,6 @@ class Goat extends Animal
     }
 }
 
-
 public class Assignment {
     public static void main(String[] args) {
 Goat myobj = new Goat();
