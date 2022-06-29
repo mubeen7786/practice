@@ -59,9 +59,9 @@ class Goat extends Animal
     }
     void display()
     {
-        System.out.println(" Color: " + getcolor());
+        System.out.println("Color: " + getcolor());
         System.out.println("Eyes:  " + geteyes());
-        System.out.println("Legs:  "+ getlegs());
+        System.out.println("Legs:  " + getlegs());
         System.out.println("Teeths: " + getteeths());
         System.out.println("Bread:  " + goatbreed);
         System.out.println("Pattern:  " + goatpatteren);
