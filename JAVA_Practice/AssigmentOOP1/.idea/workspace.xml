@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf6bac45-2b3f-45aa-8b28-344d220b42b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment/Goat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AssignmentOfIntefaces/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AssignmentOfIntefaces/CommonFeaturesClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AssignmentOfIntefaces/MainInterfaceClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2Auto/src/test/java/Assignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2Auto/src/test/java/Assignment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2Auto/src/test/java/Interfaces_Ambiguity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2Auto/src/test/java/Interfaces_Ambiguity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Assignment2Auto/target/test-classes/Interfaces_Ambiguity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment2Auto/target/test-classes/Interfaces_Ambiguity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AssignmentOfIntefaces/MainInterfaceClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AssignmentOfIntefaces/MainInterfaceClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
