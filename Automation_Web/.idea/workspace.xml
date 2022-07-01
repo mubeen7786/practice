@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf6bac45-2b3f-45aa-8b28-344d220b42b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Automation_Web/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Automation_Web/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Automation_Web/.idea/libraries/async_http_client_2_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Automation_Web/.idea/libraries/selenium_java_4_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Automation_Web/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Automation_Web/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Automation_Web/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Automation_Web/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Automation_Web/src/test/java/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Automation_Web/target/test-classes/MyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="bc6f7250-eebd-4e39-9518-15e3f6271676" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_Practice/AssigmentOOP1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_Practice/AssigmentOOP1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +21,9 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2BF5orHIAjZCzlrIaOVqWMQ1goy" />
+  <component name="ProjectId" id="2BMGtczSFa0lOBJro0RD2eyRyfs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -45,35 +36,32 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignment.MainClass" />
-      <module name="AssigmentOOP1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Assignment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="MyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <module name="Automation_Web" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainClass" />
+        <item itemvalue="Application.MyTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cf6bac45-2b3f-45aa-8b28-344d220b42b7" name="Changes" comment="" />
-      <created>1656489170116</created>
+      <changelist id="bc6f7250-eebd-4e39-9518-15e3f6271676" name="Changes" comment="" />
+      <created>1656708755334</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1656489170116</updated>
+      <updated>1656708755334</updated>
     </task>
     <servers />
   </component>
@@ -87,7 +75,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
