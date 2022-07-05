@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf6bac45-2b3f-45aa-8b28-344d220b42b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Automation_Web/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Automation_Web/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Automation_Web/.idea/libraries/async_http_client_2_12_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Automation_Web/.idea/libraries/selenium_java_4_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Automation_Web/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Automation_Web/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Automation_Web/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Automation_Web/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Automation_Web/src/test/java/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Automation_Web/target/test-classes/MyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Automation_Web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Automation_Web/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Automation_Web/src/test/java/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Automation_Web/src/test/java/MyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Automation_Web/target/test-classes/MyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Automation_Web/target/test-classes/MyTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
