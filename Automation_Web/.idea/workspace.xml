@@ -7,13 +7,41 @@
     <list default="true" id="bc6f7250-eebd-4e39-9518-15e3f6271676" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/test/java/UI/MyTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NewProFaIZAN" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/Bank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/out/production/Bank/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/BankClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/PersonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NisumSessionJava/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NisumSessionJava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NisumSessionJava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NisumSessionJava/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NisumSessionJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NisumSessionJava/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NisumSessionJava/NisumSessionJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NisumSessionJava/Task1_Java.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NisumSessionJava/src/Task1/Ifelse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NisumSessionJava/src/Task1/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NisumSessionJava/src/Task1/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NisumSessionJava/src/Task1/SwitchBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NisumSessionJava/src/Task2/JavaFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NisumSessionJava/src/Task3/Classes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NisumSessionJava/src/Task3/practice2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/MyTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/MyTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA_Practice/AssigmentOOP1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA_Practice/AssigmentOOP1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewProFaIZAN" beforeDir="false" afterPath="$PROJECT_DIR$/../NewProFaIZAN" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +157,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

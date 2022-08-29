@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a47c51b7-8720-4c69-ba0b-03c568eab9bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assigment2ofJAVA/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment2ofJAVA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment2ofJAVA/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment2ofJAVA/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment2ofJAVA/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment2ofJAVA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment2ofJAVA/Assigment2ofJAVA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment2ofJAVA/src/Other_Tasks/CreatFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment2ofJAVA/src/Other_Tasks/ReadFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment2ofJAVA/src/Other_Tasks/WriteinFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment2ofJAVA/src/Task1_JAVA_Constructor/ClassWithConstructer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment2ofJAVA/src/Task1_JAVA_Constructor/Parameterized_Constructer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment2ofJAVA/src/Task2_JAVA_Encapsolation/Enc_Class1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment2ofJAVA/src/Task2_JAVA_Encapsolation/Enc_Class2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment2ofJAVA/src/Task5_Abstraction/Abstraction_Motorbike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment2ofJAVA/src/Task_3_Inheritance/Hierarchical_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment2ofJAVA/src/Task_3_Inheritance/Multi_Level.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment2ofJAVA/src/Task_3_Inheritance/Single_Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment2ofJAVA/src/Task_4_polymarphisam/OverRiding_Polymarphisam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment2ofJAVA/src/Task_4_polymarphisam/Overloading_PolyMarphisam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment2ofJAVA/src/Task_4_polymarphisam/Polymarphisam_Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/Bank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/out/production/Bank/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/BankClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bank/src/PersonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NisumSessionJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1_Java.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/Ifelse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/SwitchBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/JavaFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Classes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/practice2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Automation_Web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Automation_Web/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewProFaIZAN" beforeDir="false" afterPath="$PROJECT_DIR$/../NewProFaIZAN" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2CLZpuZVgEV6olPxwiCXzt1tOaZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Rectangle">
+    <configuration name="Classes1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task3.Classes1" />
+      <module name="NisumSessionJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task2.JavaFunctions" />
+      <module name="NisumSessionJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task1.Loops" />
+      <module name="NisumSessionJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task3.Rectangle" />
+      <module name="NisumSessionJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchBreak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task1.SwitchBreak" />
+      <module name="NisumSessionJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Rectangle" />
+        <item itemvalue="Application.Classes1" />
+        <item itemvalue="Application.JavaFunctions" />
+        <item itemvalue="Application.SwitchBreak" />
+        <item itemvalue="Application.Loops" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a47c51b7-8720-4c69-ba0b-03c568eab9bd" name="Changes" comment="" />
+      <created>1658584011775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658584011775</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
